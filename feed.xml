@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Lorentz Lyceum Nieuwsupdate</title>
+  <link>https://thijsvanhaaren.github.io/lorentz-podcast/</link>
+  <language>nl</language>
+  <description>Wekelijkse nieuwsupdate van het Lorentz Lyceum, voorgelezen. Privéfeed.</description>
+  <itunes:author>Lorentz Lyceum (voorgelezen)</itunes:author>
+  <itunes:image href="https://thijsvanhaaren.github.io/lorentz-podcast/cover.png"/>
+  <itunes:block>Yes</itunes:block>
+  <itunes:explicit>false</itunes:explicit>
+  <item>
+    <title>Nieuwsupdate week 47-2026</title>
+    <description>Serious Request-acties (bingo, loterij), schoolfotograaf, bijzondere data nov/dec.</description>
+    <guid isPermaLink="false">lorentz-2026-wk47</guid>
+    <pubDate>Thu, 19 Nov 2026 18:00:00 +0100</pubDate>
+    <enclosure url="https://thijsvanhaaren.github.io/lorentz-podcast/episodes/2026-wk47.mp3" length="1734436" type="audio/mpeg"/>
+    <itunes:duration>216</itunes:duration>
+  </item>
+</channel>
+</rss>
